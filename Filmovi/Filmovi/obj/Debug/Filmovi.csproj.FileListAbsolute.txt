@@ -1,0 +1,53 @@
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2\Filmovi\Filmovi\bin\Debug\Filmovi.exe.config
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2\Filmovi\Filmovi\bin\Debug\Filmovi.exe
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2\Filmovi\Filmovi\bin\Debug\Filmovi.pdb
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2\Filmovi\Filmovi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2\Filmovi\Filmovi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2\Filmovi\Filmovi\obj\Debug\Filmovi.csprojAssemblyReference.cache
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2\Filmovi\Filmovi\obj\Debug\Filmovi.Form1.resources
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2\Filmovi\Filmovi\obj\Debug\Filmovi.Properties.Resources.resources
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2\Filmovi\Filmovi\obj\Debug\Filmovi.csproj.GenerateResource.cache
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2\Filmovi\Filmovi\obj\Debug\Filmovi.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2\Filmovi\Filmovi\obj\Debug\Filmovi.csproj.CopyComplete
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2\Filmovi\Filmovi\obj\Debug\Filmovi.exe
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2\Filmovi\Filmovi\obj\Debug\Filmovi.pdb
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2\Filmovi\Filmovi\obj\Debug\Filmovi.FormAddMovie.resources
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2\Filmovi\Filmovi\obj\Debug\Filmovi.FirstForm.resources
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2\Filmovi\Filmovi\obj\Debug\Filmovi.PrijavaForma.resources
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2\Filmovi\Filmovi\obj\Debug\Filmovi.RegForma.resources
+C:\Users\Antonio\Downloads\Text's\2. Godina\ProjektFilmovi2\Filmovi\Filmovi\bin\Debug\Filmovi.exe.config
+C:\Users\Antonio\Downloads\Text's\2. Godina\ProjektFilmovi2\Filmovi\Filmovi\bin\Debug\Filmovi.exe
+C:\Users\Antonio\Downloads\Text's\2. Godina\ProjektFilmovi2\Filmovi\Filmovi\bin\Debug\Filmovi.pdb
+C:\Users\Antonio\Downloads\Text's\2. Godina\ProjektFilmovi2\Filmovi\Filmovi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Antonio\Downloads\Text's\2. Godina\ProjektFilmovi2\Filmovi\Filmovi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Antonio\Downloads\Text's\2. Godina\ProjektFilmovi2\Filmovi\Filmovi\obj\Debug\Filmovi.csprojAssemblyReference.cache
+C:\Users\Antonio\Downloads\Text's\2. Godina\ProjektFilmovi2\Filmovi\Filmovi\obj\Debug\Filmovi.FirstForm.resources
+C:\Users\Antonio\Downloads\Text's\2. Godina\ProjektFilmovi2\Filmovi\Filmovi\obj\Debug\Filmovi.Form1.resources
+C:\Users\Antonio\Downloads\Text's\2. Godina\ProjektFilmovi2\Filmovi\Filmovi\obj\Debug\Filmovi.FormAddMovie.resources
+C:\Users\Antonio\Downloads\Text's\2. Godina\ProjektFilmovi2\Filmovi\Filmovi\obj\Debug\Filmovi.PrijavaForma.resources
+C:\Users\Antonio\Downloads\Text's\2. Godina\ProjektFilmovi2\Filmovi\Filmovi\obj\Debug\Filmovi.Properties.Resources.resources
+C:\Users\Antonio\Downloads\Text's\2. Godina\ProjektFilmovi2\Filmovi\Filmovi\obj\Debug\Filmovi.RegForma.resources
+C:\Users\Antonio\Downloads\Text's\2. Godina\ProjektFilmovi2\Filmovi\Filmovi\obj\Debug\Filmovi.csproj.GenerateResource.cache
+C:\Users\Antonio\Downloads\Text's\2. Godina\ProjektFilmovi2\Filmovi\Filmovi\obj\Debug\Filmovi.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Downloads\Text's\2. Godina\ProjektFilmovi2\Filmovi\Filmovi\obj\Debug\Filmovi.csproj.CopyComplete
+C:\Users\Antonio\Downloads\Text's\2. Godina\ProjektFilmovi2\Filmovi\Filmovi\obj\Debug\Filmovi.exe
+C:\Users\Antonio\Downloads\Text's\2. Godina\ProjektFilmovi2\Filmovi\Filmovi\obj\Debug\Filmovi.pdb
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2\Filmovi\Filmovi\obj\Debug\Filmovi.FormAboutMovie.resources
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2-V3\Filmovi\Filmovi\bin\Debug\Filmovi.exe.config
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2-V3\Filmovi\Filmovi\bin\Debug\Filmovi.exe
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2-V3\Filmovi\Filmovi\bin\Debug\Filmovi.pdb
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2-V3\Filmovi\Filmovi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2-V3\Filmovi\Filmovi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2-V3\Filmovi\Filmovi\obj\Debug\Filmovi.csprojAssemblyReference.cache
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2-V3\Filmovi\Filmovi\obj\Debug\Filmovi.FirstForm.resources
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2-V3\Filmovi\Filmovi\obj\Debug\Filmovi.Form1.resources
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2-V3\Filmovi\Filmovi\obj\Debug\Filmovi.FormAboutMovie.resources
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2-V3\Filmovi\Filmovi\obj\Debug\Filmovi.FormAddMovie.resources
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2-V3\Filmovi\Filmovi\obj\Debug\Filmovi.PrijavaForma.resources
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2-V3\Filmovi\Filmovi\obj\Debug\Filmovi.Properties.Resources.resources
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2-V3\Filmovi\Filmovi\obj\Debug\Filmovi.RegForma.resources
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2-V3\Filmovi\Filmovi\obj\Debug\Filmovi.csproj.GenerateResource.cache
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2-V3\Filmovi\Filmovi\obj\Debug\Filmovi.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2-V3\Filmovi\Filmovi\obj\Debug\Filmovi.csproj.CopyComplete
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2-V3\Filmovi\Filmovi\obj\Debug\Filmovi.exe
+C:\Users\Antonio\Downloads\Text's\2. Godina\Programiranje u .NET okolini\ProjektFilmovi2-V3\Filmovi\Filmovi\obj\Debug\Filmovi.pdb
