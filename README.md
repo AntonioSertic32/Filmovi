@@ -1,6 +1,12 @@
 # Filmovi
 Projekt za fakultet, program u .net razvojnom okruženju koji služi za evidenciju i ocjenjivanje filmova.
 
+Možete si napraviti svoj apikey besplatno te ćete imati 1000 query-a dnevno na raspolaganju.
+Ovdje sam stavio i svoj kako bi uštedio vrijeme nekome tko hoće samo pregledati.
+
+Te sam za kraj dodao i nešto screenshot-a završne verzije i početnu skicu iz paint-a xD
+Napomena: Ne znam koliko če još baza biti podignuta na serveru jer je to od faksa te se preporučuje napraviti vlastitu.
+
 naziv tablice u bazi sertic_Movies sertic_Users
 server: 193.198.57.189
 ime baze: DOTNET2019
@@ -32,7 +38,7 @@ login: student stu!2019neT
 "Website":"N/A",
 "Response":"True"
 
-Here is your key: 963f9d0a
+moj apikey: 963f9d0a
 Please append it to all of your API requests,
 OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=963f9d0a
 
@@ -47,3 +53,9 @@ Kako bi se za spremljene filmove ažurirala ocjena sa IMDB-a, potrebno je napisa
 	Key = endpoint, value = http://www.omdbapi.com/
 	Key = apikey, value =
 	(app.config)
+
+http://www.omdbapi.com/apikey.aspx
+https://www.codeproject.com/Questions/1105904/Grab-movie-info-from-OMDB-in-Csharp-please-show-an
+https://stackoverflow.com/questions/50425077/return-list-from-json-url-c-sharp
+
+Bonus: neka od ideja za feature bi bilo dodavanje pregleda koliko je ukupno sati potrošeno na gledanje tih filmova koji se nalaze u bazi.
